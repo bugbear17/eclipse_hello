@@ -6,6 +6,7 @@ public class PushPrint {
 
 		System.out.println("add java class file push");
 		System.out.println("add java class file push >> this is that");
+		System.out.println("remote edit >>>> add java class file push");
 	}
 
 }
